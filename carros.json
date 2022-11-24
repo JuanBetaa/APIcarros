@@ -1,0 +1,31 @@
+[
+    {
+        "_id": 1,
+        "Nombre": "HURACAN",
+        "Marca": "lamborghini",
+        "Modelo": "2022",
+        "Motor":" Motor V10"
+    },
+    {
+        "_id": 2,
+        "Nombre": "ONIX TURBO RS",
+        "Marca": "CHEVROLET",
+        "Modelo": "2022",
+        "Motor":" Motor Turbo 115 Hp Torque 160 Nm"
+    },
+    {
+        "_id": 3,
+        "Nombre": "ONIX TURBO SEDÁN",
+        "Marca": "CHEVROLET",
+        "Modelo": "2022",
+        "Motor":" Motor Turbo 115 HP Torque 160 Nm"
+    },
+    {
+        "_id": 4,
+        "Nombre": "FERRARI 296 GTB",
+        "Marca": "FERRARI",
+        "Modelo": "2022",
+        "Motor":" Motor V6 de 120º "
+    }
+    
+]

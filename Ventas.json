@@ -1,0 +1,34 @@
+[
+    {
+        "_id": 13879,
+        "_idCliente": 9745411411,
+        "nombre cliente":"andres felipe sanchez",
+        "Fecha": "(2022-07-25)",
+        "Detalle": "1 unidad vendida, color azul",
+        "Precio": 1409000
+    },
+    {
+        "_id": 21454,
+        "nombre cliente":"stefania sanchez ortiz",
+        "_idCliente": 1078961425,
+        "Fecha": "(2022-03-17)",
+        "Detalle": "1 unidad vendida, color morado",
+        "Precio": 1899900
+    },
+    {
+        "_id": 37499,
+        "nombre cliente":"stiven rojas torres",
+        "_idCliente": 1098712323,
+        "Fecha": "(2022-08-22)",
+        "Detalle": "1 unidad pagada a 12 cuotas de 333325, color dorado",
+        "Precio": 3999900
+    },
+    {
+        "_id": 45949,
+        "nombre cliente":"brayan santiago delgado carreño",
+        "_idCliente": 1512351416,
+        "Fecha": "(2022-05-01)",
+        "Detalle": "1 unidad pagada a 2 cuotas de 773421, color gris mate",
+        "Precio": 1546842
+    }
+]
